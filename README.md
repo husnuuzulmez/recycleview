@@ -1,2 +1,2 @@
-# recycleview
-Recycleview with AsyncTask - JSON
+# RecyclerView
+RecyclerView with AsyncTask - JSON
